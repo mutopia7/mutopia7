@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<p align="center">
+  Languages and Tools:
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,html,css,figma,js" />
+  </a>
+</p>
+
+
 📫 How to reach me: mutopia20@gmail.com 
 
 <!--
