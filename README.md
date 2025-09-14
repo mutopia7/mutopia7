@@ -34,9 +34,9 @@ I love creating dynamic, interactive, and user-friendly web applications. Consta
 Here you can organize your repositories by type. Replace the sample links with your actual projects.
 
 ### **Full-Stack Projects**
-- [memory-club](memory-club.vercel.app) — A full-stack Node.js + Express + PostgreSQL project.
+- [memory-club](https://memory-club.vercel.app/) — A full-stack Node.js + Express + PostgreSQL project.
 The application implements authentication, authorization, role-based access control, and CRUD operations for posts (called "memories").
-- [uploader](uploader11.vercel.app) — A modern and secure Photo Upload & Management web app built with Node.js, Express, EJS, Prisma, Passport, Cloudinary, Alpine.js, and TailwindCSS.
+- [uploader](https://uploader11.vercel.app/) — A modern and secure Photo Upload & Management web app built with Node.js, Express, EJS, Prisma, Passport, Cloudinary, Alpine.js, and TailwindCSS.
 
 ### **React Projects** 
 - [shopping](https://shopping-one-flax.vercel.app) — M.Shop is a modern, responsive, and fully functional sample e-commerce platform built with React, React Router, and Context API. 
