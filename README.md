@@ -31,7 +31,7 @@ I love creating dynamic, interactive, and user-friendly web applications. Consta
 
 ## 🚀 My Project Categories
 
-Here you can organize your repositories by type. Replace the sample links with your actual projects.
+Here you can see my projects.
 
 ### **Full-Stack Projects**
 - [memory-club](https://memory-club.vercel.app/) — A full-stack Node.js + Express + PostgreSQL project.
