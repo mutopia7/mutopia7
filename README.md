@@ -39,11 +39,11 @@ The application implements authentication, authorization, role-based access cont
 - [uploader](https://uploader11.vercel.app/) — A modern and secure Photo Upload & Management web app built with Node.js, Express, EJS, Prisma, Passport, Cloudinary, Alpine.js, and TailwindCSS.
 - [memory-board](https://memoryboard7.vercel.app/) — A simple mini message board application built with Node.js, Express, and EJS using the MVC architecture.
 Users can view colorful sticky-note style messages and click each note to see detailed information.
-- [movie-land](https://memoryboard7.vercel.app/) —Movie Land is a simple yet professional web app for displaying information about movies, actors, and genres.
+- [movie-land](https://movie-land7.vercel.app/) —Movie Land is a simple yet professional web app for displaying information about movies, actors, and genres.
 ### **React Projects** 
 - [shopping](https://shopping-one-flax.vercel.app) — M.Shop is a modern, responsive, and fully functional sample e-commerce platform built with React, React Router, and Context API. 
 - [cv-project](https://cv-project-two-zeta.vercel.app) — A sleek and interactive Resume Builder built with React — featuring real-time form editing, live preview, print/export to PDF functionality, and responsive design.A site for creating dynamic resumes
-- [Memory-card](https://movie-land7.vercel.app/) — A fun and interactive memory game built with React and Vite, featuring characters from the Rick and Morty universe.   
+- [Memory-card](https://memory-card-zeta-seven.vercel.app/) — A fun and interactive memory game built with React and Vite, featuring characters from the Rick and Morty universe.   
 
 ### **Frontend Projects**
 - [tic-tac-toe](https://mutopia7.github.io/tic-tae-toe/) — tic-tac-toe game. 
